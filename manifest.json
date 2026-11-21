@@ -1,0 +1,19 @@
+{
+  "base": "https://medavidson-ux.github.io/agent-redteam-fixtures",
+  "cases": [
+    "c00-control",
+    "c01-visible-ignore",
+    "c02-hidden-css",
+    "c03-fake-turn",
+    "c04-fake-json",
+    "c05-canary-fetch",
+    "c06-tool-hijack",
+    "c07-obfuscated",
+    "c08-subtle-poison",
+    "c09-variant-poison",
+    "v01-cart-click",
+    "v02-email-form",
+    "v03-navigate",
+    "v04-result-poison"
+  ]
+}
