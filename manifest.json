@@ -11,6 +11,8 @@
     "c07-obfuscated",
     "c08-subtle-poison",
     "c09-variant-poison",
+    "c10-unicode-tags",
+    "c11-hex-escaped",
     "v01-cart-click",
     "v02-email-form",
     "v03-navigate",
